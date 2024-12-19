@@ -1,0 +1,23 @@
+[project]
+name = "aws_infrastructure_security_audit_and_reporting"
+version = "0.1.0"
+description = "AWS Infrastructure Security Audit and Reporting using CrewAI"
+authors = [
+    {name = "Tony Kipkemboi", email = "tony@crewai.com"},
+]
+dependencies = [
+    "crewai[tools]>=0.16.0",
+    "boto3>=1.34.0",
+    "python-dotenv>=1.0.0",
+]
+requires-python = ">=3.10,<3.13"
+readme = "README.md"
+license = {text = "MIT"}
+
+[project.scripts]
+aws_infrastructure_security_audit_and_reporting = "aws_infrastructure_security_audit_and_reporting.main:run"
+test = "aws_infrastructure_security_audit_and_reporting.main:test"
+
+[build-system]
+requires = ["pdm-backend"]
+build-backend = "pdm.backend"

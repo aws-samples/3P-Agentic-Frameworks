@@ -1,0 +1,40 @@
+map_aws_infrastructure_task:
+  description: Conduct a broad, high-level scan and mapping of the AWS infrastructure.
+    Document all discovered components with initial surface-level assessment of potential security concerns.
+    Create an inventory of EC2 instances, S3 buckets, IAM configurations, RDS databases, VPCs, security groups,
+    network ACLs, load balancers, Lambda functions, API Gateways, and other AWS services. Provide preliminary
+    risk indicators for each resource type.
+  expected_output: A wide-scope infrastructure map with initial security assessment indicators. Include basic
+    resource inventory, preliminary security flags. Flag obvious security concerns for deeper analysis in subsequent tasks.
+  async_execution: false
+  agent: infrastructure_mapper
+
+exploratory_security_analysis_task:
+  description: Perform deep-dive security analysis of flagged resources and configurations. Leverage external
+    threat intelligence, CVE databases, and security research to thoroughly analyze each identified risk.
+    Research similar security incidents and their solutions from public AWS customer cases. Cross-reference
+    findings with current AWS security bulletins, known exploit patterns, and emerging threats.
+    Make sure to look up the docs in order to do a proper analysis.
+  expected_output: A comprehensive security analysis with detailed technical evidence, external reference links,
+    and thoroughly researched vulnerability context. Include references to similar cases, relevant CVEs,
+    and documented exploit patterns. Provide detailed technical context for each security finding.
+  async_execution: false
+  agent: security_analyst
+  context:
+  - map_aws_infrastructure_task
+
+generate_report_task:
+  description: Create an executive-level security report synthesizing all findings. Include an executive summary,
+    detailed technical analysis, risk assessment matrix, and prioritized remediation roadmap, and instruction on how to remediate.
+    Reference specific AWS documentation, AWS Security Blog posts, AWS re:Invent presentations, and official AWS whitepapers for
+    all recommendations. Include direct links to relevant AWS documentation for each remediation step.
+  expected_output: A comprehensive security report with clear sections for executive summary, technical findings,
+    risk analysis, and detailed remediation plans and clear instructions on how to remediate.
+    All recommendations must cite official AWS documentation sources, knowledge base articles, or AWS partner network resources.
+    Include AWS-specific best practices and implementation patterns.
+  async_execution: false
+  agent: report_writer
+  output_file: new_report.md
+  context:
+  - map_aws_infrastructure_task
+  - exploratory_security_analysis_task
