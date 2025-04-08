@@ -1,0 +1,1627 @@
+[
+  {
+    "name":"Tampa Bay Brewing Company",
+    "address":"1600 E 8th Ave",
+    "city":"Tampa",
+    "state":"FL",
+    "postal_code":"33605",
+    "stars":4.5,
+    "review_count":1250,
+    "is_open":1,
+    "attributes":{
+      "has_tv":true,
+      "outdoor_seating":true,
+      "wifi":true
+    },
+    "categories":"brewery,bar,restaurant"
+  },
+  {
+    "name":"Philadelphia Distilling",
+    "address":"25 E Allen St",
+    "city":"Philadelphia",
+    "state":"PA",
+    "postal_code":"19123",
+    "stars":4.0,
+    "review_count":850,
+    "is_open":1,
+    "attributes":{
+      "happy_hour":true,
+      "wheelchair_accessible":true,
+      "live_music":false
+    },
+    "categories":"distillery,bar"
+  },
+  {
+    "name":"The Columbia Restaurant",
+    "address":"2117 E 7th Ave",
+    "city":"Tampa",
+    "state":"FL",
+    "postal_code":"33605",
+    "stars":4.5,
+    "review_count":4500,
+    "is_open":1,
+    "attributes":{
+      "reservations":true,
+      "outdoor_seating":true,
+      "valet_parking":true
+    },
+    "categories":"Spanish,Cuban,restaurant"
+  },
+  {
+    "name":"Monk's Cafe",
+    "address":"264 S 16th St",
+    "city":"Philadelphia",
+    "state":"PA",
+    "postal_code":"19102",
+    "stars":4.0,
+    "review_count":2250,
+    "is_open":1,
+    "attributes":{
+      "happy_hour":true,
+      "late_night":true,
+      "wifi":true
+    },
+    "categories":"bar,gastropub"
+  },
+  {
+    "name":"Boulder Cafe",
+    "address":"1001 Walnut St",
+    "city":"Boulder",
+    "state":"CO",
+    "postal_code":"80302",
+    "stars":4.5,
+    "review_count":1500,
+    "is_open":1,
+    "attributes":{
+      "vegetarian_options":true,
+      "vegan_options":true,
+      "gluten_free_options":true
+    },
+    "categories":"cafe,restaurant"
+  },
+  {
+    "name":"Tampa Bay Brewing Company",
+    "address":"1600 E 8th Ave",
+    "city":"Tampa",
+    "state":"FL",
+    "postal_code":"33605",
+    "stars":4.5,
+    "review_count":650,
+    "is_open":1,
+    "attributes":{
+      "has_tv":true,
+      "outdoor_seating":true,
+      "wifi":true
+    },
+    "categories":"brewery,bar,american"
+  },
+  {
+    "name":"Reading Terminal Market",
+    "address":"51 N 12th St",
+    "city":"Philadelphia",
+    "state":"PA",
+    "postal_code":"19107",
+    "stars":4.5,
+    "review_count":12500,
+    "is_open":1,
+    "attributes":{
+      "accepts_credit_cards":true,
+      "good_for_kids":true,
+      "has_tv":false
+    },
+    "categories":"food court,shopping,food"
+  },
+  {
+    "name":"Carmine's Creole Italian Cafe",
+    "address":"2141 Shattuck Ave",
+    "city":"Berkeley",
+    "state":"CA",
+    "postal_code":"94704",
+    "stars":4.0,
+    "review_count":1050,
+    "is_open":1,
+    "attributes":{
+      "accepts_credit_cards":true,
+      "good_for_kids":true,
+      "outdoor_seating":true
+    },
+    "categories":"italian,creole,cajun"
+  },
+  {
+    "name":"The Varsity",
+    "address":"61 North Ave NW",
+    "city":"Atlanta",
+    "state":"GA",
+    "postal_code":"30308",
+    "stars":4.0,
+    "review_count":3500,
+    "is_open":1,
+    "attributes":{
+      "accepts_credit_cards":true,
+      "good_for_kids":true,
+      "drive_thru":true
+    },
+    "categories":"american,fastfood,traditional"
+  },
+  {
+    "name":"Bavarian Bierhaus",
+    "address":"700 W Lexington Blvd",
+    "city":"Glendale",
+    "state":"WI",
+    "postal_code":"53027",
+    "stars":4.0,
+    "review_count":250,
+    "is_open":1,
+    "attributes":{
+      "accepts_credit_cards":true,
+      "good_for_kids":false,
+      "has_tv":true
+    },
+    "categories":"german,bar,biergarten"
+  },
+  {
+    "name":"Tampa Bay Seafood House",
+    "address":"123 Harbor Drive",
+    "city":"Tampa",
+    "state":"FL",
+    "postal_code":"33602",
+    "stars":4.5,
+    "review_count":350,
+    "is_open":1,
+    "attributes":{
+      "has_tv":true,
+      "outdoor_seating":true,
+      "wifi":false
+    },
+    "categories":"Seafood, Restaurant, Bar"
+  },
+  {
+    "name":"Philadelphia Steak & Ale",
+    "address":"456 Market Street",
+    "city":"Philadelphia",
+    "state":"PA",
+    "postal_code":"19106",
+    "stars":4.0,
+    "review_count":275,
+    "is_open":1,
+    "attributes":{
+      "has_tv":true,
+      "outdoor_seating":false,
+      "wifi":true
+    },
+    "categories":"Steakhouse, Pub, Bar"
+  },
+  {
+    "name":"Austin Tex-Mex Grill",
+    "address":"789 Congress Avenue",
+    "city":"Austin",
+    "state":"TX",
+    "postal_code":"78701",
+    "stars":4.3,
+    "review_count":420,
+    "is_open":1,
+    "attributes":{
+      "has_tv":false,
+      "outdoor_seating":true,
+      "wifi":true
+    },
+    "categories":"Tex-Mex, Mexican, Restaurant, Bar"
+  },
+  {
+    "name":"Denver Craft Beer Haven",
+    "address":"321 Blake Street",
+    "city":"Denver",
+    "state":"CO",
+    "postal_code":"80202",
+    "stars":4.7,
+    "review_count":510,
+    "is_open":1,
+    "attributes":{
+      "has_tv":true,
+      "outdoor_seating":false,
+      "wifi":true
+    },
+    "categories":"Craft Beer, Brewery, Bar"
+  },
+  {
+    "name":"Tampa Vegan Bistro",
+    "address":"654 Franklin Street",
+    "city":"Tampa",
+    "state":"FL",
+    "postal_code":"33602",
+    "stars":4.2,
+    "review_count":290,
+    "is_open":1,
+    "attributes":{
+      "has_tv":false,
+      "outdoor_seating":true,
+      "wifi":true
+    },
+    "categories":"Vegan, Vegetarian, Restaurant, Bar"
+  },
+  {
+    "name":"Tampa Bay Brewing Company",
+    "address":"1600 E 8th Ave",
+    "city":"Tampa",
+    "state":"FL",
+    "postal_code":"33605",
+    "stars":4.5,
+    "review_count":850,
+    "is_open":1,
+    "attributes":{
+      "has_tv":true,
+      "outdoor_seating":true,
+      "noise_level":"average"
+    },
+    "categories":"brewery,bar,pub"
+  },
+  {
+    "name":"Reading Terminal Market",
+    "address":"51 N 12th St",
+    "city":"Philadelphia",
+    "state":"PA",
+    "postal_code":"19107",
+    "stars":4.5,
+    "review_count":23456,
+    "is_open":1,
+    "attributes":{
+      "has_wifi":true,
+      "accepts_credit_cards":true,
+      "good_for_kids":true
+    },
+    "categories":"food court,market,deli"
+  },
+  {
+    "name":"Pat's King of Steaks",
+    "address":"1237 E Passyunk Ave",
+    "city":"Philadelphia",
+    "state":"PA",
+    "postal_code":"19147",
+    "stars":4.0,
+    "review_count":11057,
+    "is_open":1,
+    "attributes":{
+      "accepts_credit_cards":true,
+      "good_for_kids":true,
+      "takes_reservations":false
+    },
+    "categories":"cheesesteaks,sandwiches,fast food"
+  },
+  {
+    "name":"Ulele",
+    "address":"1810 N Highland Ave",
+    "city":"Tampa",
+    "state":"FL",
+    "postal_code":"33602",
+    "stars":4.5,
+    "review_count":5421,
+    "is_open":1,
+    "attributes":{
+      "has_tv":false,
+      "outdoor_seating":true,
+      "noise_level":"average"
+    },
+    "categories":"american,seafood,bar"
+  },
+  {
+    "name":"Bartaco",
+    "address":"12635 Beach Blvd",
+    "city":"Jacksonville",
+    "state":"FL",
+    "postal_code":"32246",
+    "stars":4.0,
+    "review_count":1176,
+    "is_open":1,
+    "attributes":{
+      "has_wifi":true,
+      "accepts_credit_cards":true,
+      "good_for_kids":true
+    },
+    "categories":"mexican,tacos,bar"
+  },
+  {
+    "name":"The Crab Shack",
+    "address":"2202 N Westshore Blvd",
+    "city":"Tampa",
+    "state":"FL",
+    "postal_code":"33607",
+    "stars":4.5,
+    "review_count":450,
+    "is_open":1,
+    "attributes":{
+      "outdoor_seating":true,
+      "wifi":false,
+      "delivery":true
+    },
+    "categories":"Seafood, Restaurant, Bar"
+  },
+  {
+    "name":"Philadelphia Steakhouse",
+    "address":"1234 Market St",
+    "city":"Philadelphia",
+    "state":"PA",
+    "postal_code":"19107",
+    "stars":4.0,
+    "review_count":750,
+    "is_open":1,
+    "attributes":{
+      "outdoor_seating":false,
+      "wifi":true,
+      "delivery":true
+    },
+    "categories":"Steakhouse, Restaurant, Bar"
+  },
+  {
+    "name":"Tampa Bay Brewing Company",
+    "address":"1600 E 8th Ave",
+    "city":"Tampa",
+    "state":"FL",
+    "postal_code":"33605",
+    "stars":4.5,
+    "review_count":300,
+    "is_open":1,
+    "attributes":{
+      "outdoor_seating":true,
+      "wifi":true,
+      "delivery":false
+    },
+    "categories":"Brewery, Bar"
+  },
+  {
+    "name":"City Tavern",
+    "address":"138 S 2nd St",
+    "city":"Philadelphia",
+    "state":"PA",
+    "postal_code":"19106",
+    "stars":3.5,
+    "review_count":500,
+    "is_open":1,
+    "attributes":{
+      "outdoor_seating":false,
+      "wifi":true,
+      "delivery":false
+    },
+    "categories":"Pub, Restaurant, Bar"
+  },
+  {
+    "name":"The Italian Bistro",
+    "address":"555 Main St",
+    "city":"Denver",
+    "state":"CO",
+    "postal_code":"80202",
+    "stars":4.7,
+    "review_count":250,
+    "is_open":1,
+    "attributes":{
+      "outdoor_seating":true,
+      "wifi":true,
+      "delivery":true
+    },
+    "categories":"Italian, Restaurant, Bar"
+  },
+  {
+    "name":"Tampa Bay Brewing Company",
+    "address":"1600 E 8th Ave",
+    "city":"Tampa",
+    "state":"FL",
+    "postal_code":"33605",
+    "stars":4.5,
+    "review_count":567,
+    "is_open":1,
+    "attributes":{
+      "has_tv":true,
+      "outdoor_seating":true,
+      "wifi":true
+    },
+    "categories":"brewery,bar,restaurant"
+  },
+  {
+    "name":"Philadelphia Distilling",
+    "address":"25 E Allen St",
+    "city":"Philadelphia",
+    "state":"PA",
+    "postal_code":"19123",
+    "stars":4.0,
+    "review_count":289,
+    "is_open":1,
+    "attributes":{
+      "happy_hour":true,
+      "wheelchair_accessible":true,
+      "live_music":false
+    },
+    "categories":"distillery,bar"
+  },
+  {
+    "name":"Carmine's",
+    "address":"100 S 21st St",
+    "city":"Philadelphia",
+    "state":"PA",
+    "postal_code":"19103",
+    "stars":4.5,
+    "review_count":1243,
+    "is_open":1,
+    "attributes":{
+      "reservations":true,
+      "takeout":true,
+      "delivery":false
+    },
+    "categories":"italian,restaurant"
+  },
+  {
+    "name":"The Sail Pavilion",
+    "address":"333 S Franklin St",
+    "city":"Tampa",
+    "state":"FL",
+    "postal_code":"33602",
+    "stars":4.0,
+    "review_count":1876,
+    "is_open":1,
+    "attributes":{
+      "waterfront":true,
+      "pet_friendly":true,
+      "valet_parking":false
+    },
+    "categories":"bar,seafood,american"
+  },
+  {
+    "name":"The Capital Grille",
+    "address":"901 New York Ave NW",
+    "city":"Washington",
+    "state":"DC",
+    "postal_code":"20001",
+    "stars":4.5,
+    "review_count":1456,
+    "is_open":1,
+    "attributes":{
+      "private_dining":true,
+      "valet_parking":true,
+      "wifi":true
+    },
+    "categories":"steakhouse,restaurant"
+  },
+  {
+    "name":"Tampa Bay Brewing Company",
+    "address":"1600 E 8th Ave",
+    "city":"Tampa",
+    "state":"FL",
+    "postal_code":"33605",
+    "stars":4.5,
+    "review_count":650,
+    "is_open":1,
+    "attributes":{
+      "has_tv":true,
+      "outdoor_seating":true,
+      "wifi":true
+    },
+    "categories":"brewery,bar,pub"
+  },
+  {
+    "name":"Philadelphia Distilling",
+    "address":"25 E Allen St",
+    "city":"Philadelphia",
+    "state":"PA",
+    "postal_code":"19123",
+    "stars":4.0,
+    "review_count":320,
+    "is_open":1,
+    "attributes":{
+      "happy_hour":true,
+      "tours":true,
+      "wheelchair_accessible":true
+    },
+    "categories":"distillery,bar"
+  },
+  {
+    "name":"Ciro's Speakeasy and Supper Club",
+    "address":"2109 Bissonnet St",
+    "city":"Houston",
+    "state":"TX",
+    "postal_code":"77005",
+    "stars":4.5,
+    "review_count":280,
+    "is_open":0,
+    "attributes":{
+      "live_music":true,
+      "dress_code":true,
+      "reservations":true
+    },
+    "categories":"lounge,bar,italian"
+  },
+  {
+    "name":"The Varsity",
+    "address":"61 North Ave NW",
+    "city":"Atlanta",
+    "state":"GA",
+    "postal_code":"30308",
+    "stars":3.5,
+    "review_count":1250,
+    "is_open":1,
+    "attributes":{
+      "drive_thru":true,
+      "takeout":true,
+      "kid_friendly":true
+    },
+    "categories":"fast_food,american"
+  },
+  {
+    "name":"Bamboo Sushi",
+    "address":"836 NW 23rd Ave",
+    "city":"Portland",
+    "state":"OR",
+    "postal_code":"97210",
+    "stars":4.0,
+    "review_count":720,
+    "is_open":1,
+    "attributes":{
+      "sustainable":true,
+      "vegan_options":true,
+      "gluten_free_options":true
+    },
+    "categories":"sushi,japanese,seafood"
+  },
+  {
+    "name":"Tampa Bay Brewing Company",
+    "address":"1600 E 8th Ave",
+    "city":"Tampa",
+    "state":"FL",
+    "postal_code":"33605",
+    "stars":4.5,
+    "review_count":583,
+    "is_open":1,
+    "attributes":{
+      "has_tv":true,
+      "outdoor_seating":true,
+      "wifi":true
+    },
+    "categories":"Brewery, Bar, American, Pub"
+  },
+  {
+    "name":"Reading Terminal Market",
+    "address":"51 N 12th St",
+    "city":"Philadelphia",
+    "state":"PA",
+    "postal_code":"19107",
+    "stars":4.5,
+    "review_count":12482,
+    "is_open":1,
+    "attributes":{
+      "accepts_credit_cards":true,
+      "good_for_kids":true,
+      "wheelchair_accessible":true
+    },
+    "categories":"Food Court, Market, Deli, Bakery"
+  },
+  {
+    "name":"Datz",
+    "address":"2616 S MacDill Ave",
+    "city":"Tampa",
+    "state":"FL",
+    "postal_code":"33629",
+    "stars":4.5,
+    "review_count":7082,
+    "is_open":1,
+    "attributes":{
+      "accepts_credit_cards":true,
+      "good_for_kids":true,
+      "alcohol":"full_bar"
+    },
+    "categories":"American (New), Breakfast & Brunch, Gastropubs"
+  },
+  {
+    "name":"Monk's Cafe",
+    "address":"264 S 16th St",
+    "city":"Philadelphia",
+    "state":"PA",
+    "postal_code":"19102",
+    "stars":4.5,
+    "review_count":2787,
+    "is_open":1,
+    "attributes":{
+      "accepts_credit_cards":true,
+      "good_for_kids":false,
+      "alcohol":"full_bar"
+    },
+    "categories":"Belgian, Bars, Pubs"
+  },
+  {
+    "name":"The Varsity",
+    "address":"61 North Ave NW",
+    "city":"Atlanta",
+    "state":"GA",
+    "postal_code":"30308",
+    "stars":4.0,
+    "review_count":6332,
+    "is_open":1,
+    "attributes":{
+      "accepts_credit_cards":true,
+      "good_for_kids":true,
+      "drive_thru":true
+    },
+    "categories":"Fast Food, American (Traditional), Burgers"
+  },
+  {
+    "name":"The Columbia Restaurant",
+    "address":"2117 E 7th Ave",
+    "city":"Tampa",
+    "state":"FL",
+    "postal_code":"33605",
+    "stars":4.5,
+    "review_count":4837,
+    "is_open":1,
+    "attributes":{
+      "outdoor_seating":true,
+      "takeout":true,
+      "delivery":false,
+      "wifi":true
+    },
+    "categories":"Cuban, Spanish, Seafood"
+  },
+  {
+    "name":"Monk's Cafe",
+    "address":"264 S 16th St",
+    "city":"Philadelphia",
+    "state":"PA",
+    "postal_code":"19102",
+    "stars":4.0,
+    "review_count":2017,
+    "is_open":1,
+    "attributes":{
+      "outdoor_seating":false,
+      "takeout":false,
+      "delivery":false,
+      "wifi":false
+    },
+    "categories":"Belgian, Bars, Gastropubs"
+  },
+  {
+    "name":"Voodoo Brewery",
+    "address":"205 E 9th Ave",
+    "city":"Tampa",
+    "state":"FL",
+    "postal_code":"33602",
+    "stars":4.5,
+    "review_count":135,
+    "is_open":1,
+    "attributes":{
+      "outdoor_seating":true,
+      "takeout":false,
+      "delivery":false,
+      "wifi":false
+    },
+    "categories":"Breweries, Beer Bar"
+  },
+  {
+    "name":"Reading Terminal Market",
+    "address":"51 N 12th St",
+    "city":"Philadelphia",
+    "state":"PA",
+    "postal_code":"19107",
+    "stars":4.5,
+    "review_count":18816,
+    "is_open":1,
+    "attributes":{
+      "outdoor_seating":false,
+      "takeout":true,
+      "delivery":false,
+      "wifi":false
+    },
+    "categories":"Food Court, Seafood, Sandwiches"
+  },
+  {
+    "name":"The Capital Grille",
+    "address":"5355 E High St",
+    "city":"Phoenix",
+    "state":"AZ",
+    "postal_code":"85054",
+    "stars":4.5,
+    "review_count":1119,
+    "is_open":1,
+    "attributes":{
+      "outdoor_seating":false,
+      "takeout":true,
+      "delivery":false,
+      "wifi":true
+    },
+    "categories":"Steakhouses, American (Traditional), Bars"
+  },
+  {
+    "name":"Tampa Bay Brewing Company",
+    "address":"1600 E 8th Ave",
+    "city":"Tampa",
+    "state":"FL",
+    "postal_code":"33605",
+    "stars":4.5,
+    "review_count":750,
+    "is_open":1,
+    "attributes":{
+      "has_tv":true,
+      "outdoor_seating":true,
+      "wifi":true
+    },
+    "categories":"Brewery, American (Traditional), Bar"
+  },
+  {
+    "name":"Philadelphia Brewing Company",
+    "address":"2440 Frankford Ave",
+    "city":"Philadelphia",
+    "state":"PA",
+    "postal_code":"19125",
+    "stars":4.0,
+    "review_count":475,
+    "is_open":1,
+    "attributes":{
+      "has_tv":false,
+      "outdoor_seating":true,
+      "wifi":true
+    },
+    "categories":"Brewery, Bar, Pub"
+  },
+  {
+    "name":"The Columbia Restaurant",
+    "address":"2117 E 7th Ave",
+    "city":"Tampa",
+    "state":"FL",
+    "postal_code":"33605",
+    "stars":4.5,
+    "review_count":1250,
+    "is_open":1,
+    "attributes":{
+      "has_tv":false,
+      "outdoor_seating":false,
+      "wifi":true
+    },
+    "categories":"Cuban, Spanish, Seafood"
+  },
+  {
+    "name":"Reading Terminal Market",
+    "address":"51 N 12th St",
+    "city":"Philadelphia",
+    "state":"PA",
+    "postal_code":"19107",
+    "stars":4.5,
+    "review_count":2000,
+    "is_open":1,
+    "attributes":{
+      "has_tv":false,
+      "outdoor_seating":false,
+      "wifi":true
+    },
+    "categories":"Food Court, Deli, Seafood"
+  },
+  {
+    "name":"Bartaco West Hartford",
+    "address":"971 Farmington Ave",
+    "city":"West Hartford",
+    "state":"CT",
+    "postal_code":"06107",
+    "stars":4.0,
+    "review_count":600,
+    "is_open":1,
+    "attributes":{
+      "has_tv":true,
+      "outdoor_seating":true,
+      "wifi":true
+    },
+    "categories":"Tacos, Mexican, Bar"
+  },
+  {
+    "name":"The Columbia Restaurant",
+    "address":"2117 E 7th Ave",
+    "city":"Tampa",
+    "state":"FL",
+    "postal_code":"33605",
+    "stars":4.5,
+    "review_count":4825,
+    "is_open":1,
+    "attributes":{
+      "outdoor_seating":true,
+      "takeout":true,
+      "delivery":false,
+      "wifi":true,
+      "good_for_kids":true
+    },
+    "categories":"Cuban, Spanish, Seafood"
+  },
+  {
+    "name":"Monk's Cafe",
+    "address":"264 S 16th St",
+    "city":"Philadelphia",
+    "state":"PA",
+    "postal_code":"19102",
+    "stars":4.0,
+    "review_count":2344,
+    "is_open":1,
+    "attributes":{
+      "outdoor_seating":false,
+      "takeout":false,
+      "delivery":false,
+      "wifi":false,
+      "good_for_kids":false
+    },
+    "categories":"Belgian, Beer Bar, Gastropubs"
+  },
+  {
+    "name":"Buddy's Pizza",
+    "address":"17125 Conant St",
+    "city":"Detroit",
+    "state":"MI",
+    "postal_code":"48212",
+    "stars":4.5,
+    "review_count":2578,
+    "is_open":1,
+    "attributes":{
+      "outdoor_seating":false,
+      "takeout":true,
+      "delivery":true,
+      "wifi":false,
+      "good_for_kids":true
+    },
+    "categories":"Pizza, Italian"
+  },
+  {
+    "name":"The Varsity",
+    "address":"61 North Ave NW",
+    "city":"Atlanta",
+    "state":"GA",
+    "postal_code":"30308",
+    "stars":3.5,
+    "review_count":5357,
+    "is_open":1,
+    "attributes":{
+      "outdoor_seating":false,
+      "takeout":true,
+      "delivery":false,
+      "wifi":false,
+      "good_for_kids":true
+    },
+    "categories":"American (Traditional), Fast Food, Burgers"
+  },
+  {
+    "name":"The Salt Lick BBQ",
+    "address":"18300 FM 1826",
+    "city":"Driftwood",
+    "state":"TX",
+    "postal_code":"78619",
+    "stars":4.0,
+    "review_count":5979,
+    "is_open":1,
+    "attributes":{
+      "outdoor_seating":true,
+      "takeout":true,
+      "delivery":false,
+      "wifi":false,
+      "good_for_kids":true
+    },
+    "categories":"Barbecue, American (Traditional)"
+  },
+  {
+    "name":"Tampa Bay Brewing Company",
+    "address":"1600 E 8th Ave",
+    "city":"Tampa",
+    "state":"FL",
+    "postal_code":"33605",
+    "stars":4.5,
+    "review_count":450,
+    "is_open":1,
+    "attributes":{
+      "has_tv":true,
+      "outdoor_seating":true,
+      "wifi":true
+    },
+    "categories":"brewery,bar,pub"
+  },
+  {
+    "name":"Reading Terminal Market",
+    "address":"51 N 12th St",
+    "city":"Philadelphia",
+    "state":"PA",
+    "postal_code":"19107",
+    "stars":4.7,
+    "review_count":12000,
+    "is_open":1,
+    "attributes":{
+      "has_tv":false,
+      "outdoor_seating":false,
+      "wifi":true
+    },
+    "categories":"market,food court"
+  },
+  {
+    "name":"The Columbia Restaurant",
+    "address":"2117 E 7th Ave",
+    "city":"Tampa",
+    "state":"FL",
+    "postal_code":"33605",
+    "stars":4.5,
+    "review_count":3500,
+    "is_open":1,
+    "attributes":{
+      "has_tv":false,
+      "outdoor_seating":true,
+      "wifi":true
+    },
+    "categories":"spanish,cuban,seafood"
+  },
+  {
+    "name":"Monk's Cafe",
+    "address":"264 S 16th St",
+    "city":"Philadelphia",
+    "state":"PA",
+    "postal_code":"19102",
+    "stars":4.5,
+    "review_count":1500,
+    "is_open":1,
+    "attributes":{
+      "has_tv":true,
+      "outdoor_seating":false,
+      "wifi":true
+    },
+    "categories":"belgian,bar,pub"
+  },
+  {
+    "name":"Boulder Creek Steakhouse",
+    "address":"1520 S Willow St",
+    "city":"Boise",
+    "state":"ID",
+    "postal_code":"83702",
+    "stars":4.0,
+    "review_count":200,
+    "is_open":1,
+    "attributes":{
+      "has_tv":true,
+      "outdoor_seating":true,
+      "wifi":true
+    },
+    "categories":"steakhouse,bar,grill"
+  },
+  {
+    "name":"The Columbia Restaurant",
+    "address":"2117 E 7th Ave",
+    "city":"Tampa",
+    "state":"FL",
+    "postal_code":"33605",
+    "stars":4.5,
+    "review_count":4500,
+    "is_open":1,
+    "attributes":{
+      "has_tv":true,
+      "outdoor_seating":true,
+      "noise_level":"average"
+    },
+    "categories":"Cuban, Spanish, Seafood"
+  },
+  {
+    "name":"Monk's Cafe",
+    "address":"264 S 16th St",
+    "city":"Philadelphia",
+    "state":"PA",
+    "postal_code":"19102",
+    "stars":4.0,
+    "review_count":2500,
+    "is_open":1,
+    "attributes":{
+      "has_tv":false,
+      "outdoor_seating":false,
+      "noise_level":"loud"
+    },
+    "categories":"Belgian, Beer Bar, Gastropubs"
+  },
+  {
+    "name":"Voodoo Brewery",
+    "address":"205 E 9th Ave",
+    "city":"Tampa",
+    "state":"FL",
+    "postal_code":"33602",
+    "stars":4.5,
+    "review_count":1200,
+    "is_open":1,
+    "attributes":{
+      "has_tv":true,
+      "outdoor_seating":true,
+      "noise_level":"average"
+    },
+    "categories":"Breweries, Beer Bar"
+  },
+  {
+    "name":"Reading Terminal Market",
+    "address":"51 N 12th St",
+    "city":"Philadelphia",
+    "state":"PA",
+    "postal_code":"19107",
+    "stars":4.5,
+    "review_count":14500,
+    "is_open":1,
+    "attributes":{
+      "has_tv":false,
+      "outdoor_seating":false,
+      "noise_level":"loud"
+    },
+    "categories":"Food Court, Seafood, Sandwiches"
+  },
+  {
+    "name":"Brewery ARS",
+    "address":"1927 W Passyunk Ave",
+    "city":"Philadelphia",
+    "state":"PA",
+    "postal_code":"19145",
+    "stars":4.0,
+    "review_count":200,
+    "is_open":1,
+    "attributes":{
+      "has_tv":true,
+      "outdoor_seating":true,
+      "noise_level":"average"
+    },
+    "categories":"Breweries, Gastropubs, Beer Bar"
+  },
+  {
+    "name":"Tampa Bay Brewing Company",
+    "address":"1600 E 8th Ave",
+    "city":"Tampa",
+    "state":"FL",
+    "postal_code":"33605",
+    "stars":4.5,
+    "review_count":789,
+    "is_open":1,
+    "attributes":{
+      "outdoor_seating":true,
+      "good_for_kids":true,
+      "happy_hour":true
+    },
+    "categories":"brewery,bar,american"
+  },
+  {
+    "name":"Reading Terminal Market",
+    "address":"51 N 12th St",
+    "city":"Philadelphia",
+    "state":"PA",
+    "postal_code":"19107",
+    "stars":4.5,
+    "review_count":12000,
+    "is_open":1,
+    "attributes":{
+      "accepts_credit_cards":true,
+      "good_for_kids":true,
+      "wheelchair_accessible":true
+    },
+    "categories":"food court,market,deli"
+  },
+  {
+    "name":"Bern's Steak House",
+    "address":"1208 S Howard Ave",
+    "city":"Tampa",
+    "state":"FL",
+    "postal_code":"33606",
+    "stars":4.7,
+    "review_count":5800,
+    "is_open":1,
+    "attributes":{
+      "reservations":true,
+      "valet_parking":true,
+      "formal_attire":true
+    },
+    "categories":"steakhouse,wine bar,fine dining"
+  },
+  {
+    "name":"Monk's Cafe",
+    "address":"264 S 16th St",
+    "city":"Philadelphia",
+    "state":"PA",
+    "postal_code":"19102",
+    "stars":4.5,
+    "review_count":2400,
+    "is_open":1,
+    "attributes":{
+      "outdoor_seating":true,
+      "happy_hour":true,
+      "late_night":true
+    },
+    "categories":"bar,belgian,gastropub"
+  },
+  {
+    "name":"The Varsity",
+    "address":"61 North Ave NW",
+    "city":"Atlanta",
+    "state":"GA",
+    "postal_code":"30308",
+    "stars":4.0,
+    "review_count":6200,
+    "is_open":1,
+    "attributes":{
+      "drive_thru":true,
+      "good_for_kids":true,
+      "quick_bite":true
+    },
+    "categories":"fast food,american,hot dogs"
+  },
+  {
+    "name":"The Columbia Restaurant",
+    "address":"2117 E 7th Ave",
+    "city":"Tampa",
+    "state":"FL",
+    "postal_code":"33605",
+    "stars":4.5,
+    "review_count":3256,
+    "is_open":1,
+    "attributes":{
+      "outdoor_seating":true,
+      "takeout":true,
+      "delivery":false,
+      "wifi":true,
+      "parking":true
+    },
+    "categories":"Cuban, Spanish, Seafood"
+  },
+  {
+    "name":"Monk's Cafe",
+    "address":"264 S 16th St",
+    "city":"Philadelphia",
+    "state":"PA",
+    "postal_code":"19102",
+    "stars":4.0,
+    "review_count":1468,
+    "is_open":1,
+    "attributes":{
+      "outdoor_seating":false,
+      "takeout":false,
+      "delivery":false,
+      "wifi":false,
+      "parking":false
+    },
+    "categories":"Belgian, Bars, Gastropubs"
+  },
+  {
+    "name":"Buddy's Pizza",
+    "address":"17125 Conant St",
+    "city":"Detroit",
+    "state":"MI",
+    "postal_code":"48212",
+    "stars":4.5,
+    "review_count":2011,
+    "is_open":1,
+    "attributes":{
+      "outdoor_seating":false,
+      "takeout":true,
+      "delivery":true,
+      "wifi":false,
+      "parking":true
+    },
+    "categories":"Pizza, Italian"
+  },
+  {
+    "name":"Tacos El Gordo",
+    "address":"3041 N Cicero Ave",
+    "city":"Chicago",
+    "state":"IL",
+    "postal_code":"60641",
+    "stars":4.5,
+    "review_count":1192,
+    "is_open":1,
+    "attributes":{
+      "outdoor_seating":false,
+      "takeout":true,
+      "delivery":false,
+      "wifi":false,
+      "parking":true
+    },
+    "categories":"Tacos, Mexican"
+  },
+  {
+    "name":"The Love",
+    "address":"130 S 18th St",
+    "city":"Philadelphia",
+    "state":"PA",
+    "postal_code":"19103",
+    "stars":4.5,
+    "review_count":659,
+    "is_open":1,
+    "attributes":{
+      "outdoor_seating":true,
+      "takeout":true,
+      "delivery":false,
+      "wifi":true,
+      "parking":false
+    },
+    "categories":"American (New), Breakfast & Brunch, Cafes"
+  },
+  {
+    "name":"Tampa Bay Seafood House",
+    "address":"2301 N Tampa St",
+    "city":"Tampa",
+    "state":"FL",
+    "postal_code":"33602",
+    "stars":4.5,
+    "review_count":487,
+    "is_open":1,
+    "attributes":{
+      "takeout":true,
+      "delivery":false,
+      "outdoor_seating":true
+    },
+    "categories":"Seafood, Restaurant, Bar"
+  },
+  {
+    "name":"Philadelphia Steak & Hoagie Co.",
+    "address":"1516 Sansom St",
+    "city":"Philadelphia",
+    "state":"PA",
+    "postal_code":"19102",
+    "stars":4.0,
+    "review_count":296,
+    "is_open":1,
+    "attributes":{
+      "takeout":true,
+      "delivery":true,
+      "outdoor_seating":false
+    },
+    "categories":"Sandwiches, Restaurant"
+  },
+  {
+    "name":"Tampa Bay Brewing Company",
+    "address":"1600 E 8th Ave",
+    "city":"Tampa",
+    "state":"FL",
+    "postal_code":"33605",
+    "stars":4.0,
+    "review_count":675,
+    "is_open":1,
+    "attributes":{
+      "takeout":false,
+      "delivery":false,
+      "outdoor_seating":true
+    },
+    "categories":"Brewery, Bar, Gastropub"
+  },
+  {
+    "name":"Monk's Cafe",
+    "address":"264 S 16th St",
+    "city":"Philadelphia",
+    "state":"PA",
+    "postal_code":"19102",
+    "stars":4.5,
+    "review_count":1275,
+    "is_open":1,
+    "attributes":{
+      "takeout":false,
+      "delivery":false,
+      "outdoor_seating":false
+    },
+    "categories":"Belgian, Bar, Gastropub"
+  },
+  {
+    "name":"Denver Chophouse & Brewery",
+    "address":"1735 19th St",
+    "city":"Denver",
+    "state":"CO",
+    "postal_code":"80202",
+    "stars":4.0,
+    "review_count":968,
+    "is_open":1,
+    "attributes":{
+      "takeout":true,
+      "delivery":false,
+      "outdoor_seating":true
+    },
+    "categories":"Steakhouse, Brewery, Bar"
+  },
+  {
+    "name":"The Columbia Restaurant",
+    "address":"2117 E 7th Ave",
+    "city":"Tampa",
+    "state":"FL",
+    "postal_code":"33605",
+    "stars":4.5,
+    "review_count":3500,
+    "is_open":1,
+    "attributes":{
+      "has_tv":true,
+      "outdoor_seating":true,
+      "wifi":true
+    },
+    "categories":"Cuban, Spanish, Seafood"
+  },
+  {
+    "name":"Monk's Cafe",
+    "address":"264 S 16th St",
+    "city":"Philadelphia",
+    "state":"PA",
+    "postal_code":"19102",
+    "stars":4.0,
+    "review_count":1200,
+    "is_open":1,
+    "attributes":{
+      "has_tv":false,
+      "outdoor_seating":false,
+      "wifi":true
+    },
+    "categories":"Belgian, Beer Bar, Sandwiches"
+  },
+  {
+    "name":"Bern's Steak House",
+    "address":"1208 S Howard Ave",
+    "city":"Tampa",
+    "state":"FL",
+    "postal_code":"33606",
+    "stars":4.7,
+    "review_count":5600,
+    "is_open":1,
+    "attributes":{
+      "has_tv":false,
+      "outdoor_seating":false,
+      "wifi":true
+    },
+    "categories":"Steakhouses, Wine Bars, American (Traditional)"
+  },
+  {
+    "name":"Good Dog Bar",
+    "address":"224 S 15th St",
+    "city":"Philadelphia",
+    "state":"PA",
+    "postal_code":"19102",
+    "stars":4.0,
+    "review_count":1000,
+    "is_open":1,
+    "attributes":{
+      "has_tv":true,
+      "outdoor_seating":false,
+      "wifi":true
+    },
+    "categories":"Bars, American (Traditional), Burgers"
+  },
+  {
+    "name":"The Varsity",
+    "address":"61 North Avenue NW",
+    "city":"Atlanta",
+    "state":"GA",
+    "postal_code":"30308",
+    "stars":3.5,
+    "review_count":2500,
+    "is_open":1,
+    "attributes":{
+      "has_tv":false,
+      "outdoor_seating":false,
+      "wifi":false
+    },
+    "categories":"Fast Food, American (Traditional), Burgers"
+  },
+  {
+    "name":"Tampa Bay Brewing Company",
+    "address":"1600 E 8th Ave",
+    "city":"Tampa",
+    "state":"FL",
+    "postal_code":"33605",
+    "stars":4.5,
+    "review_count":450,
+    "is_open":1,
+    "attributes":{
+      "has_tv":true,
+      "outdoor_seating":true,
+      "wifi":true
+    },
+    "categories":"brewery,bar,restaurant"
+  },
+  {
+    "name":"Reading Terminal Market",
+    "address":"51 N 12th St",
+    "city":"Philadelphia",
+    "state":"PA",
+    "postal_code":"19107",
+    "stars":4.7,
+    "review_count":12000,
+    "is_open":1,
+    "attributes":{
+      "has_tv":false,
+      "outdoor_seating":false,
+      "wifi":true
+    },
+    "categories":"food court,restaurant"
+  },
+  {
+    "name":"The Franklin Bar",
+    "address":"112 S 18th St",
+    "city":"Philadelphia",
+    "state":"PA",
+    "postal_code":"19103",
+    "stars":4.5,
+    "review_count":650,
+    "is_open":0,
+    "attributes":{
+      "has_tv":false,
+      "outdoor_seating":false,
+      "wifi":false
+    },
+    "categories":"bar,cocktail bar"
+  },
+  {
+    "name":"Bern's Steak House",
+    "address":"1208 S Howard Ave",
+    "city":"Tampa",
+    "state":"FL",
+    "postal_code":"33606",
+    "stars":4.8,
+    "review_count":5500,
+    "is_open":1,
+    "attributes":{
+      "has_tv":false,
+      "outdoor_seating":false,
+      "wifi":true
+    },
+    "categories":"steakhouse,wine bar,restaurant"
+  },
+  {
+    "name":"The Varsity",
+    "address":"61 North Avenue",
+    "city":"Atlanta",
+    "state":"GA",
+    "postal_code":"30308",
+    "stars":4.0,
+    "review_count":3000,
+    "is_open":1,
+    "attributes":{
+      "has_tv":true,
+      "outdoor_seating":false,
+      "wifi":false
+    },
+    "categories":"fast food,restaurant"
+  },
+  {
+    "name":"Tampa Bay Brewing Company",
+    "address":"1600 E 8th Ave",
+    "city":"Tampa",
+    "state":"FL",
+    "postal_code":"33605",
+    "stars":4.5,
+    "review_count":750,
+    "is_open":1,
+    "attributes":{
+      "has_tv":true,
+      "outdoor_seating":true,
+      "wifi":true
+    },
+    "categories":"brewery,bar,american"
+  },
+  {
+    "name":"Reading Terminal Market",
+    "address":"51 N 12th St",
+    "city":"Philadelphia",
+    "state":"PA",
+    "postal_code":"19107",
+    "stars":4.5,
+    "review_count":15000,
+    "is_open":1,
+    "attributes":{
+      "accepts_credit_cards":true,
+      "good_for_kids":true,
+      "wifi":true
+    },
+    "categories":"food court,market,deli"
+  },
+  {
+    "name":"Pat's King of Steaks",
+    "address":"1237 E Passyunk Ave",
+    "city":"Philadelphia",
+    "state":"PA",
+    "postal_code":"19147",
+    "stars":4.0,
+    "review_count":8500,
+    "is_open":1,
+    "attributes":{
+      "accepts_credit_cards":true,
+      "good_for_kids":true,
+      "outdoor_seating":true
+    },
+    "categories":"cheesesteaks,sandwiches,fast food"
+  },
+  {
+    "name":"Bern's Steak House",
+    "address":"1208 S Howard Ave",
+    "city":"Tampa",
+    "state":"FL",
+    "postal_code":"33606",
+    "stars":4.5,
+    "review_count":6500,
+    "is_open":1,
+    "attributes":{
+      "accepts_credit_cards":true,
+      "good_for_kids":false,
+      "wifi":true
+    },
+    "categories":"steakhouse,wine bar,fine dining"
+  },
+  {
+    "name":"The Varsity",
+    "address":"61 North Ave NW",
+    "city":"Atlanta",
+    "state":"GA",
+    "postal_code":"30308",
+    "stars":4.0,
+    "review_count":4500,
+    "is_open":1,
+    "attributes":{
+      "accepts_credit_cards":true,
+      "good_for_kids":true,
+      "outdoor_seating":true
+    },
+    "categories":"hot dogs,burgers,fast food"
+  },
+  {
+    "name":"Tampa Bay Brewing Company",
+    "address":"1600 E 8th Ave",
+    "city":"Tampa",
+    "state":"FL",
+    "postal_code":"33605",
+    "stars":4.5,
+    "review_count":450,
+    "is_open":1,
+    "attributes":{
+      "has_tv":true,
+      "outdoor_seating":true,
+      "wifi":true
+    },
+    "categories":"brewery,bar,restaurant"
+  },
+  {
+    "name":"Philadelphia Distilling",
+    "address":"25 E Allen St",
+    "city":"Philadelphia",
+    "state":"PA",
+    "postal_code":"19123",
+    "stars":4.0,
+    "review_count":210,
+    "is_open":1,
+    "attributes":{
+      "happy_hour":true,
+      "wheelchair_accessible":true,
+      "accepts_credit_cards":true
+    },
+    "categories":"distillery,bar"
+  },
+  {
+    "name":"The Columbia Restaurant",
+    "address":"2117 E 7th Ave",
+    "city":"Tampa",
+    "state":"FL",
+    "postal_code":"33605",
+    "stars":4.5,
+    "review_count":675,
+    "is_open":1,
+    "attributes":{
+      "reservations":true,
+      "group_friendly":true,
+      "valet_parking":true
+    },
+    "categories":"spanish,cuban,restaurant"
+  },
+  {
+    "name":"Monk's Cafe",
+    "address":"264 S 16th St",
+    "city":"Philadelphia",
+    "state":"PA",
+    "postal_code":"19102",
+    "stars":4.0,
+    "review_count":340,
+    "is_open":1,
+    "attributes":{
+      "dog_friendly":true,
+      "accepts_credit_cards":true,
+      "good_for_kids":false
+    },
+    "categories":"belgian,bar,restaurant"
+  },
+  {
+    "name":"Bourbon House",
+    "address":"144 Bourbon St",
+    "city":"New Orleans",
+    "state":"LA",
+    "postal_code":"70130",
+    "stars":4.5,
+    "review_count":520,
+    "is_open":1,
+    "attributes":{
+      "live_music":true,
+      "late_night":true,
+      "raw_bar":true
+    },
+    "categories":"cajun,seafood,bar"
+  }
+]
