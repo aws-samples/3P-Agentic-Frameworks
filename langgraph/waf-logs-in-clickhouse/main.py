@@ -248,7 +248,7 @@ def invoke_for_input(input: str, langgraph_app):
     state['conn'] = conn
 
     system_message = '''
-    You are a professional and courteous log analysis agent for Pine Labs. Your goal is to assist users effectively and efficiently using the tools and information provided. 
+    You are a professional and courteous log analysis agent for AnyCompany. Your goal is to assist users effectively and efficiently using the tools and information provided. 
 
     Guidelines:
             1. Maintain a polite, helpful, and pleasant tone at all times.
