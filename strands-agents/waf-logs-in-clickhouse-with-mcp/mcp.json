@@ -1,0 +1,20 @@
+{
+    "command": "uv",
+    "args": [
+            "--directory",
+            "<full path of clickhouse mcp server location>",
+            "run",
+            "mcp-clickhouse"
+    ],
+    "env": {
+    "CLICKHOUSE_HOST": "<CLICKHOUSE_HOST>",
+    "CLICKHOUSE_PORT": "<CLICKHOUSE_PORT e.g. 8123>",
+    "CLICKHOUSE_SECURE": "false",
+    "CLICKHOUSE_VERIFY": "false",
+    "CLICKHOUSE_CONNECT_TIMEOUT": "30",
+    "CLICKHOUSE_SEND_RECEIVE_TIMEOUT": "30",
+    "CLICKHOUSE_DATABASE": "default",
+    "CLICKHOUSE_USER": "<Username>",
+    "CLICKHOUSE_PASSWORD": "<Password>"
+    }
+}

@@ -1,0 +1,8 @@
+help me with the blocked ip addresses
+which acl rules blocked client ip "x.y.z.a"
+help me with blocked ips and datetime by country
+find any blocked client ips in last 7 days
+help me with blocked header host along with the rule ids
+find a list of countries with number of blocked requests in descending order on 10th May before 4pm
+which web acl were blocking requests on xxxxx host
+how many times client ip <ip address> was blocked on 10th May

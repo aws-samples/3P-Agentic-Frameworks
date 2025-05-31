@@ -1,0 +1,5 @@
+clickhouse-connect>=0.8.16
+pip-system-certs>=4.0
+json
+strands-agents
+strands-agents-tools
