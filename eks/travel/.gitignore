@@ -1,0 +1,20 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+sessions/
+
+*.log
+
+.env
+
+*-values.yaml
+
+AmazonQ.md
+.amazonq/
